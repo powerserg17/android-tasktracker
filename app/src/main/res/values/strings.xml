@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TaskTracker</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_new">New to TaskTracker? Create an account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_account">Create account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="existing">Already have an account? Sign in</string>
+    <string name="password_length">Password is supposed to be at least 6 symbols length.</string>
+    <string name="login_fail">Login failed</string>
+    <string name="auth_fail">Authentication failed</string>
+    <string name="empty_email">Email is empty!</string>
+    <string name="empty_password">Password is empty!</string>
 </resources>

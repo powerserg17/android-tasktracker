@@ -49,17 +49,17 @@
     </android.support.design.widget.TextInputLayout>
 
     <Button
-        android:id="@+id/login_btn"
+        android:id="@+id/register_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorAccent"
-        android:text="@string/sign_in"
+        android:text="@string/sign_up"
         android:textColor="@color/text_color"
         android:layout_marginTop="20dp"
         style="@style/SideMargin"/>
 
     <Button
-        android:id="@+id/forgot_pass"
+        android:id="@+id/forgot_pass_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -68,11 +68,11 @@
         android:layout_marginTop="5dp"/>
 
     <Button
-        android:id="@+id/create_account_btn"
+        android:id="@+id/signin_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="@string/create_account"
+        android:text="@string/existing"
         android:background="@android:color/transparent"
         android:textColor="@color/colorAccent"/>
 
